@@ -9,6 +9,7 @@ from cvxopt import  solvers
 import time 
 import numpy as np
 from functions_1 import * 
+
 class one_against_all:
     def __init__(self, kernel_func, C, gamma):
         self.kernel_func = kernel_func
