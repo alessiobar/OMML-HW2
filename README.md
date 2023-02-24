@@ -1,4 +1,4 @@
-# OMML-HW12
+# OMML-HW2
 
 This repository contains the code for the second homework of the *Optimization Methods for Machine Learning* course (1041415), Sapienza University. The group was composed by Nina Kaploukhaya, Mehrdad Hassanzadeh and me.
 
